@@ -1,0 +1,6 @@
+{
+    "add":"http://localhost:8084/product/add",
+    "customerCategory":"http://localhost:8084/product/",
+    "delete":"http://localhost:8084/product/delete/${product.productId}",
+    "update":"http://localhost:8084/product/getbyid/${productId}"
+}
